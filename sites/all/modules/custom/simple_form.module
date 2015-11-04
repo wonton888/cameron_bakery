@@ -1,0 +1,10 @@
+<?php
+
+function simple_form_form_alter(&$form, &$form_state, $form_id) {
+    print '<pre>';
+    print_r($form_id);
+    print '</pre>';
+
+
+
+}
