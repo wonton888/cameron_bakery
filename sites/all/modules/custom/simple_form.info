@@ -1,0 +1,5 @@
+name = My Custom Simple Form for Article comments
+description = Simplifies the form for article comments in a custom content type.
+package = Custom
+core = 7.x
+files[] = simple_form.module
